@@ -1,0 +1,23 @@
+{
+  "name": "class3forever.gitee.io",
+  "version": "1.0.0",
+  "description": "vuepress by blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "repository": "git+https://gitee.com/class3forever/class3forever.github.io.git",
+  "keywords": [],
+  "author": "kylin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitee.com/class3forever/class3forever.github.io/issues"
+  },
+  "homepage": "https://gitee.com/class3forever/class3forever.github.io#readme",
+  "dependencies": {
+    "vuepress": "^1.4.1",
+    "vuepress-theme-melodydl": "^1.1.2"
+  },
+  "private": false
+}
