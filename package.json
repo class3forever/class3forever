@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://gitee.com/class3forever/class3forever.github.io/issues"
   },
-  "homepage": "https://gitee.com/class3forever/class3forever.github.io#readme",
+  "homepage": "https://gitee.com/class3forever/class3forever.gitee.io#readme",
   "dependencies": {
     "vuepress": "^1.4.1",
     "vuepress-theme-melodydl": "^1.1.2"
