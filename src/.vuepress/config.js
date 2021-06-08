@@ -32,18 +32,19 @@ module.exports = {
     },
     // Nav link
     nav: [ 
-      {text: 'HOME', link: '/' },
-      {text: 'ABOUT', link: '/about/'},
-      {text: 'TAGS', link: '/tags/'}      
+      {text: '首页', link: '/' },
+      {text: '专栏', link: '/tags/'},
+      {text: '关于', link: '/about/'}
+          
     ],
     header: {
       home: {
-        title: '永远 的 3班', 
-        subtitle: '相遇，相识，相知，相伴', 
+        title: '有幸遇见，不负遇见', 
+        subtitle: '光荣与梦想，始终在我们内心深处。3班，永远', 
         headerImage: '/home-bg.jpeg'
       },
       tags: {
-        title: 'Tags', 
+        title: '专栏', 
         subtitle: '遇见你们', 
         headerImage: '/tags-bg.jpg'
       },
