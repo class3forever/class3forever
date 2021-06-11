@@ -1,23 +1,14 @@
 {
-  "name": "class3forever",
+  "name": "class-three-forever",
   "version": "1.0.0",
-  "description": "class3forever's blog",
-  "main": "index.js",
+  "author": "reco_luan",
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
   },
-  "repository": "git+https://github.com/class3forever/class3forever.github.io.git",
-  "keywords": [],
-  "author": "kylin",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/class3forever/class3forever.github.io/issues"
+  "devDependencies": {
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6"
   },
-  "homepage": "https://github.com/class3forever/class3forever.github.io#readme",
-  "dependencies": {
-    "vuepress": "^1.4.1",
-    "vuepress-theme-melodydl": "^1.1.2"
-  },
-  "private": false
+  "description": "class3's website"
 }
